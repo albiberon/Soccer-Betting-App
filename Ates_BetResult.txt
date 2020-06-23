@@ -1,0 +1,29 @@
+Bettor Name: Ates Age: 50 
+Email: atesyanik@gmail.com
+Address: Nassaukade 340
+MatchNo: 2
+IsBetResultAnnounced: true
+Bets Won: 0
+Bets Lost: 1
+
+
+BettorTeam: Team Name: FC Read Madrid
+Team Attack: 92
+Team Offence: 90
+Random Luck: 3
+Team Experience: 88
+Games Won: 280
+Games Lose: 88
+Players:
+[Player Name: Eden Hazard Age: 29  Attack: 91 Defense:91
+, Player Name: Toni Kroos Age: 30  Attack: 89 Defense:89
+, Player Name: Luka Modric Age: 34  Attack: 89 Defense:89
+, Player Name: Sergio Ramos Age: 34  Attack: 89 Defense:89
+, Player Name: Casemiro Age: 28  Attack: 88 Defense:89
+, Player Name: Karim Benzema Age: 32  Attack: 88 Defense:88
+, Player Name: Gareth Bale Age: 30  Attack: 85 Defense:85
+]
+Balance: 1400.0
+
+
+Unfortunately! You have Lost the Bet!!

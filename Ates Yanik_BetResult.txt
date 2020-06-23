@@ -1,0 +1,32 @@
+Bettor Name: Ates Yanik Age: 41 
+Email: ates.yanik@hva.nl
+Address: Nassaukade 340
+MatchNo: 1
+IsBetResultAnnounced: true
+Bets Won: 0
+Bets Lost: 1
+
+
+BettorTeam: Team Name: FC Barcelona
+Team Attack: 90
+Team Offence: 90
+Random Luck: 5
+Team Experience: 91
+Games Won: 230
+Games Lose: 68
+Players:
+[Player Name: Marc-Andre ter Stegen Age: 28  Attack: 90 Defense:93
+, Player Name: Lionel Messi Age: 32  Attack: 94 Defense:94
+, Player Name: Antoine Griezmann Age: 29  Attack: 89 Defense:89
+, Player Name: Luis Suarez Age: 33  Attack: 89 Defense:89
+, Player Name: Sergio Busquets Age: 31  Attack: 88 Defense:88
+, Player Name: Pique Age: 33  Attack: 88 Defense:88
+, Player Name: Samuel Umtiti Age: 26  Attack: 85 Defense:88
+]
+
+
+
+Balance: 3200.0
+
+
+Unfortunately! You have Lost the Bet!!
